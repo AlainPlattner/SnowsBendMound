@@ -1,0 +1,5 @@
+Line 1: 200 MHz Following exactly the ERT/TDIP profile with 50 cm electrode spacing, but ends at 60m instead of 59.5m (where the ERT profile ends)
+
+Line 2: Exactly like line 1, but with 100 MHz
+
+Line 3: WARR line. Starting on top of the mound. Transmitter at location 21m. Receiver between location 21.6m and 33m.

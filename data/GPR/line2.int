@@ -1,0 +1,25 @@
+[
+        {
+                "border_color": [
+                        0, 
+                        0, 
+                        0
+                ], 
+                "fill_color": [
+                        233, 
+                        61, 
+                        149
+                ], 
+                "interp_type": 1, 
+                "name": "Pink", 
+                "observations": [
+                        {
+                                "ele": null, 
+                                "lat": null, 
+                                "long": null, 
+                                "sample_number": 561.44615384615383, 
+                                "trace_number": 97.530000000000001
+                        }
+                ]
+        }
+]
