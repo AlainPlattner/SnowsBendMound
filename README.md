@@ -13,6 +13,9 @@ both is to install python 3 through Anaconda:
 https://www.anaconda.com/products/individual and then install BERT and
 GIMLi following the instructions here: http://resistivity.net/bert/install.html
 
+The scripts were tested with Bert version 2.3.2 and GIMLi version 1.2.2
+They may run with newer versions as well but have not been tested.
+
 #### GPR
 
 Python 3 with GPRPy installed. The easiest way to install both is to
@@ -20,6 +23,8 @@ install python 3 through Anaconda (same as for ERT and TDIP):
 https://www.anaconda.com/products/individual and then install GPRPy
 following the instructions here: https://nsgeophysics.github.io/GPRPy/
 
+The scripts were tested with GPRPy version 1.0.10
+They may run with newer versions as well but have not been tested.
 
 ### Software required for plotting
 
@@ -27,10 +32,12 @@ following the instructions here: https://nsgeophysics.github.io/GPRPy/
 
 Same as the software required for processing.
 
-#### Surface Resistance Mapping
+#### Surface Resistance Mapping and Map
 
 GMT 6: https://www.generic-mapping-tools.org/
 
+The scripts were tested with GMT version 6.3.0
+They may run with newer versions, but have not been tested.
 
 
 ## Instructions for processing
